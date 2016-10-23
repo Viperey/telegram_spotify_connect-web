@@ -24,6 +24,13 @@ So here's a possible solution for the problem. Using a telegram bot, it will han
     2. Inside the file, modify your key file name and credentials in order to match path and filenames.
 8. Reboot the system
 
+### Usage
+
+1.Open a dialog with the telegram's bot you've just create. 
+2. Send a ```/start``` message. 
+3. In a few seconds (~10) you will see a new device available (osmc) inside your spotify app (desktop or mobile).
+4. Select that device and listen to some wonderful music.
+
 ### Pre-requisites
 
 1. [Install a spotify web server in your RPi-OSMC](https://discourse.osmc.tv/t/howto-setup-a-spotify-connect-web-server-on-a-raspberry-pi-with-osmc/15818)
