@@ -28,7 +28,7 @@ So here's a possible solution for the problem. Using a telegram bot, it will han
 
 1. [Install a spotify web server in your RPi-OSMC](https://discourse.osmc.tv/t/howto-setup-a-spotify-connect-web-server-on-a-raspberry-pi-with-osmc/15818)
 2. Create your won telegram bot, you can follow some steps [here](https://github.com/Viperey/telegram_transmission/blob/master/README.md)
-    2.1 Ignore the step for adding the command to the /etc/rc.local file.
+    1. Ignore the step for adding the command to the /etc/rc.local file.
 
 
 ### Bibliography
