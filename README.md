@@ -26,10 +26,10 @@ So here's a possible solution for the problem. Using a telegram bot, it will han
 
 ### Usage
 
-1.Open a dialog with the telegram's bot you've just create. 
-2. Send a ```/start``` message. 
+1. Open a dialog with the telegram's bot you've just create.  
+2. Send a ```/start``` message.  
 3. In a few seconds (~10) you will see a new device available (osmc) inside your spotify app (desktop or mobile).
-4. Select that device and listen to some wonderful music.
+4. Select that device and listen to some wonderful music. 
 
 ### Pre-requisites
 
