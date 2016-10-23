@@ -1,0 +1,10 @@
+[Unit] 
+Description=A telegram bot for the spotify client
+After=remote-fs.target network-online.target
+[Service] 
+User=osmc
+Group=osmc
+Type=single
+ExecStart=/home/osmc/telegram_spotify/main.py
+[Install]
+WantedBy=multi-user.target
